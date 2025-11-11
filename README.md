@@ -1,7 +1,7 @@
 Hello, Im CyberDave80, interested in all things computer science with emphasis on Python and Java. I study computer science and data engineering.
 
 Prerequisites
-- [ ] Coffee
+- [X] Coffee
 - [ ] Sleep
-- [ ] Macbook
-- [ ] 2 screens
+- [X] Macbook
+- [X] 2 screens
